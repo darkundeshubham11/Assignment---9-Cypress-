@@ -6,6 +6,7 @@ Ans**
 
 **Language Support:**
 Selenium supports multiple programming languages like Java, C#, Python, Ruby, JavaScript, and Kotlin.
+
 **Browser Support:**
 It supports a wide range of browsers including Chrome, Firefox, Safari, Internet Explorer, and Edge.
 **Framework:**
